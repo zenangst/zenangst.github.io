@@ -154,7 +154,7 @@ div.constrained {
     rgba(0,0,0, 0.7) 100%);
     padding: 8px;
     border-radius: 16px;
-    margin-top: -48px;
+    margin-top: -26px;
 }
 
 .button {
@@ -482,6 +482,7 @@ nav .app-icon {
     animation-timing-function: ease-in-out;
     position: absolute;
     display: inline-block;
+    top: -80px;
     left: 0;
     transform: perspective(1000px) rotateX(10deg);
     border-radius: 12px;
