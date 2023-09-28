@@ -204,7 +204,7 @@ div.constrained {
     position: absolute;
     display: block;
     padding-bottom: 1800px;
-    margin-top: -400px;
+    margin-top: -200px;
     overflow: hidden;
     z-index: -1;
 }
@@ -412,8 +412,7 @@ body > hr {
 
 section img {
     display: block;
-    max-width: 120%;
-    margin-left: -10%;
+    max-width: 100%;
 }
 
 section.centered,
